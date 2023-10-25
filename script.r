@@ -1,6 +1,6 @@
 #import library and help function
 library(dplyr)
-source("nemolm2.R")
+source("helper.R")
 
 #import and clean data
 data <- read.csv("project/Spotify-2000.csv")
